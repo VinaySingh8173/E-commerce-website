@@ -5,3 +5,5 @@ An e-commerce website/app is a very famous project and you will find it in almos
 The knowledge that you will gain from this project:
 
 This project takes up a lot of time and energy. You will learn a lot about how the backend of this e-commerce website works and a lot about user security, authentication, etc. Managing a huge database with different categories of products and different catalogues will also be a challenge. Overall, a lot to learn from this project. The GitHub Link for a sample E-commerce Website with its source code is given below. You can take inspiration from it and try to make your own e-commerce website.
+
+website https://latest.oscarcommerce.com/en-gb/catalogue/
